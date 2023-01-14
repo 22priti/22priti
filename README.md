@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @22zeke
+- 👋 Hi, I’m @22priti
 - 👀 I’m interested in Machine learning and Security
 - 🌱 I’m currently learning penetration testing.
 
